@@ -5,6 +5,7 @@
 
 
 print("hello")
+print("hello again")
 
 
 # In[2]:
@@ -15,7 +16,8 @@ y=5
 x+y
 
 
-# In[ ]:
+# In[3]:
+print('Sweta, pls make easy stuff on Python! :P ')
 
 
 
